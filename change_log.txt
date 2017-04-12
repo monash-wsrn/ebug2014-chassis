@@ -1,0 +1,18 @@
+12/4/2017 (Nick D'Ademo)
+------------------------
+Removed "obsolete" directory due to GitHub 100MB filesize limit.
+
+
+21/8/2016 (Ahmet Sekercioglu)
+-----------------------------
+Converted Sketchup files to Autodesk Inventor format, and moved old
+formats to the "obsolete" directory.
+
+4/8/2015 (Matthew Boys)
+-----------------------
+Part 2: Motor mounting holes: changed distance between hole from 18 to 17.5mm, Lowered holes to 5.8mm from top, Added cavity of 1mm depth and 3.2mm radius behind each hole.
+Part 2: Change pylons platform thickness to 0.5mm thicker. Lengthened pylons of parts 1 and 3 by 0.5mm too.
+Part 2: Central bumper switch holes moved 2mm towards centre.
+Bumper: Pushers thickened to 3mm thick
+Part 1: Added 15mm*1.5mm cut-out. Added 2.5*2.5mm blocks to strengthen pylons.
+Part 4: Wheel mounting holes spread to be 13.5mm apart.
